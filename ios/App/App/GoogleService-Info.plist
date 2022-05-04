@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>76895133294-ic81ut15bvmonrn8ed00h9m9f7aat5kq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.76895133294-ic81ut15bvmonrn8ed00h9m9f7aat5kq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDVm1AaYPekve4w2R5ew9Y5mKgIXIR9zZc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>76895133294</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.roamio.roamio-interest-form</string>
+	<key>PROJECT_ID</key>
+	<string>roamio-interest-form</string>
+	<key>STORAGE_BUCKET</key>
+	<string>roamio-interest-form.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:76895133294:ios:0a2497c244d5f18dcfd07f</string>
+	<key>DATABASE_URL</key>
+	<string>https://roamio-interest-form-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
